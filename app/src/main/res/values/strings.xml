@@ -1,0 +1,80 @@
+<resources>
+
+    <!-- App Information -->
+    <string name="app_name">MADE-BasiliusBias_Submission2</string>
+    <string name="app_version">v0.99-BetA_Test!</string>
+    <string name="app_author">Basilius Bias Astho Christyono</string>
+    <string name="partner">Google Dev. Kejar + Dicoding"</string>
+
+    <!-- Utilities, Fun Stuff -->
+    <string name="animated_gif">https://jrznog.dm.files.1drv.com/y4mebt7-M1sS28d2MWGIFeO3rcdWbDua4NIFA3O5H6OqyBoxWcAR_P-Dxd2fxucS9TeH2btYKmn_VA91qemaumk0H7gvitAoBd9bOKkPpCb5-_LEDYaJQBk67JKPi1o059dSfK2zUu2HZDyP9_T8O7LtbaPO90vdGVhsKtY-QTqV5P9rAuiJgJRYBQD282arPNv8T4zIeKKcx8zj6qHgHbX8g</string>
+    <string name="data_title">Title</string>
+    <string name="data_image">Image</string>
+    <string name="data_description">Description</string>
+    <string name="data_score">Score</string>
+    <string name="data_type">Type</string>
+
+    <!-- Activity Window & Fragment TitleBar -->
+    <string name="title_activity_main">Main Application</string>
+    <string name="title_activity_details">Detail Information</string>
+    <string name="title_activity_settings">Application Settings</string>
+    <string name="title_activity_about">About Me!</string>
+
+    <!-- Splash Activity Content Template -->
+    <string name="splash_picture">Application Picture Icon Logo</string>
+
+    <!-- Main Activity Content Template -->
+    <string name="main_back_pressed">Press BACK Button Again To Exit</string>
+
+    <!-- Main Activity Navigation Drawer -->
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- Main Activity Navigation Header -->
+    <string name="nav_user_img">User Profile Picture</string>
+    <string name="nav_user_name">User Profile Name</string>
+    <string name="nav_user_email">User Profile Email</string>
+
+    <!-- Main Activity Navigation Menu Content -->
+    <string name="nav_movie">Movies</string>
+    <string name="nav_tv_shows">TV Shows</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="nav_about">About Me!</string>
+
+    <!-- Main Activity Action Menu -->
+    <string name="action_main_settings">Settings</string>
+
+    <!-- About Activity Content Template -->
+    <string name="about_library">Libraries Used</string>
+
+    <!-- About Activity Action Menu -->
+    <string name="action_about_linkedin">LinkedIn</string>
+    <string name="action_about_github">GitHub</string>
+    <string name="action_about_facebook">FaceBook</string>
+    <string name="action_about_twitter">Twitter</string>
+    <string name="action_about_line">LINE</string>
+
+    <!-- Settings Activity Language Category -->
+    <string name="settings_saved">Setting Saved!</string>
+    <string name="pref_language">Application Language</string>
+
+    <!-- Settings Activity Language Switch -->
+    <string name="pref_language_switch_key">pref_language_switch</string>
+    <string name="pref_language_switch_title">Custom Language</string>
+    <string name="pref_language_default_switch">false</string>
+    <string name="pref_language_switch_on">Using A Custom Language</string>
+    <string name="pref_language_switch_off">Using System Default Language</string>
+
+    <!-- Settings Activity Language Select -->
+    <string name="pref_language_list_key">pref_language_value</string>
+    <string name="pref_language_list_title">Choose Language</string>
+    <string-array name="pref_language_label">
+        <item>English - US</item>
+        <item>Indonesian - ID</item>
+    </string-array>
+    <string-array name="pref_language_value">
+        <item>en</item>
+        <item>in</item>
+    </string-array>
+
+</resources>
